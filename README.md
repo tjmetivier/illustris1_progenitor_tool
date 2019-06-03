@@ -7,6 +7,13 @@ Enter a given index corresponding to 1 of 4310 galaxies available in the origina
 
 This way, all main progenitors can be found through Illustris' API.
 
+Simply run the 'Illustris_Progenitor_Search' file. If this doesn't work, enter the following line into your terminal to make the file executable:
+```terminal
+chmod +x Illustris_Progenitor_Search
+```
+
+Language: Python 3
 Dependencies: h5py (https://github.com/h5py/h5py)
+
 
 
